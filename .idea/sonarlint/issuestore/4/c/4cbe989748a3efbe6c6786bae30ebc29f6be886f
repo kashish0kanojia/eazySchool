@@ -1,0 +1,8 @@
+
+§
+java:S1488<"_Immediately return this expression instead of assigning it to the temporary variable "msgPage".(¯òÿÿÿÿÿ8¹ÏØî‰2J$f0506291-9363-4e1b-82f8-3af71ba507c3
+…
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8ÌÏØî‰2J$9bca4917-a44b-44b2-b931-c37827428e1e
+…
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÌÏØî‰2J$7dd00411-4e22-4694-9235-335cefaeac66
+m	java:S106'"+Replace this use of System.out by a logger.(·ªœÂ8ÚÏØî‰2J$334a2594-a2f7-4661-a244-4691e583e5e4
