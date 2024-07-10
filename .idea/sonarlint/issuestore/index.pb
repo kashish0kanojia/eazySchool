@@ -15,3 +15,15 @@ r
 Bsrc/main/java/com/eazybytes/eazyschool/config/EazySchoolProps.java,a/f/af30b621af7782ee450048e2f9fd2a598a4e22da
 r
 Bsrc/main/java/com/eazybytes/eazyschool/service/ContactService.java,4/c/4cbe989748a3efbe6c6786bae30ebc29f6be886f
+Å
+Qsrc/main/java/com/eazybytes/eazyschool/security/UsernamePasswordAuthProvider.java,b/0/b0ff7e84f4708282cbad619b627e95d754e69e8f
+ó
+gsrc/main/java/com/eazybytes/eazyschool/security/EazySchoolNonProdUsernamePwdAuthenticationProvider.java,b/f/bfd444ec2c5cd7082b9ebfd6b0cdcb8e72cca892
+q
+Asrc/main/java/com/eazybytes/eazyschool/config/SecurityConfig.java,f/9/f97d11115d2df673675c7d6da307d3cb405b55f1
+v
+Fsrc/main/java/com/eazybytes/eazyschool/rest/ContactRestController.java,d/6/d6c4113ec95d734c64ac9766bb94bf9dda73dd64
+{
+Ksrc/main/java/com/eazybytes/eazyschool/audit/EazySchoolInfoContributor.java,3/9/3994e8effd4a1e324947875161a1e12a4ede9b34
+v
+Fsrc/main/java/com/eazybytes/eazyschool/EazySchoolAdminApplication.java,0/8/0855f1a4282292a2da45f4632545f6aaa5bf5d68

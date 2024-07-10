@@ -21,11 +21,13 @@ public class SecurityConfig {
 
         http.csrf((csrf) -> csrf.ignoringRequestMatchers("/saveMsg").ignoringRequestMatchers("/public/**")
                         .ignoringRequestMatchers("/api/**")
+                        .ignoringRequestMatchers("/eazyschool/actuator/**")
                         .ignoringRequestMatchers("/data-api/**"))
                 .authorizeHttpRequests((requests) -> requests.requestMatchers("/dashboard").authenticated()
                         .requestMatchers("/displayMessages/**").hasRole("ADMIN")
                         .requestMatchers("/closeMsg/**").hasRole("ADMIN")
                         .requestMatchers("/admin/**").hasRole("ADMIN")
+                        .requestMatchers("/eazyschool/actuator/**").hasRole("ADMIN")
                         .requestMatchers("/api/**").authenticated()
                         .requestMatchers("/displayProfile").authenticated()
                         .requestMatchers("/updateProfile").authenticated()

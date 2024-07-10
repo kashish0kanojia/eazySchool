@@ -1,0 +1,19 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "ADMIN" 4 times.(âÎÄ»ÿÿÿÿÿ8€øñ‰2J$5a656dfe-ea89-458a-84da-c87e9370a3d9
+s
+java:S1611"2Remove the parentheses around the "csrf" parameter(É¦óıÿÿÿÿJ$4c6faf0d-08d5-4098-bb60-49741d2a7db5
+y
+java:S1611"6Remove the parentheses around the "requests" parameter(î¿§8¼€øñ‰2J$3e2648d3-9dca-4ca4-84c1-2e74dec7cdb1
+œ
+java:S1128"`Remove this unused import 'org.springframework.boot.autoconfigure.security.servlet.PathRequest'.(üÂè§J$5a29c2ea-b95c-4447-9185-4820740177c2
+‹
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€J$a8fd2992-d77b-4fee-8196-ad8370711b31
+’
+java:S1128	"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥J$f6de395d-f127-44ec-bccf-5657219ade3c
+¢
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿJ$19ca81dc-dcc5-411a-95dc-f5238bf08d56
+ 
+java:S1128"dRemove this unused import 'org.springframework.security.web.servlet.util.matcher.MvcRequestMatcher'.(¼¡„ J$45911858-41c1-4b62-8d47-c5fe4ef5cf0c
+ 
+java:S1128"_Remove this unused import 'org.springframework.web.servlet.handler.HandlerMappingIntrospector'.(—ï›¡ùÿÿÿÿJ$ebb8f1b2-833b-4e9b-94d3-642d3c49eaab

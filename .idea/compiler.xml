@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springBoot" />
+        <module name="example_51" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="example_20" options="-parameters" />
+      <module name="example_51" options="-parameters" />
       <module name="springBoot" options="-parameters" />
     </option>
   </component>
